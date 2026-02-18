@@ -1,17 +1,23 @@
 # 📚 Python Web Scraper – Books Data Extraction
 
-This project demonstrates a clean and reliable Python web scraping script using:
+A clean and structured Python web scraping project built using:
 
 - requests
 - BeautifulSoup
 - CSV export
-
-## 🔹 Features
-
-- Custom headers
 - Error handling
-- Structured data extraction
-- Clean CSV output
+
+---
+
+## 🚀 Features
+
+✔ Custom headers  
+✔ Structured data extraction  
+✔ Clean CSV output  
+✔ Professional folder structure  
+✔ Easy to extend  
+
+---
 
 ## 📦 Installation
 
